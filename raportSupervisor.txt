@@ -1,0 +1,4847 @@
+
+Comenzi finalizate:
+Numarul comenzilor in asteptare: 0
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 0
+Statistici la ora: 20:34:45:741
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 2
+Statistici la ora: 20:34:45:964
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+Numarul comenzilor in asteptare: 3
+Numarul comenzilor in procesare: 3
+Numarul comenzilor finalizate: 4
+Statistici la ora: 20:34:46:165
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 7
+Statistici la ora: 20:34:46:366
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 9
+Statistici la ora: 20:34:46:569
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 11
+Statistici la ora: 20:34:46:770
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 13
+Statistici la ora: 20:34:46:973
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 15
+Statistici la ora: 20:34:47:173
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 17
+Statistici la ora: 20:34:47:374
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 19
+Statistici la ora: 20:34:47:575
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 20
+Statistici la ora: 20:34:47:782
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 3
+Numarul comenzilor finalizate: 22
+Statistici la ora: 20:34:47:984
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 4
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 25
+Statistici la ora: 20:34:48:186
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 3
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 27
+Statistici la ora: 20:34:48:387
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 3
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 28
+Statistici la ora: 20:34:48:599
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 30
+Statistici la ora: 20:34:48:800
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 31
+Statistici la ora: 20:34:49:012
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 32
+Statistici la ora: 20:34:49:219
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 33
+Statistici la ora: 20:34:49:422
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 34
+Statistici la ora: 20:34:49:622
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 35
+Statistici la ora: 20:34:49:824
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 36
+Statistici la ora: 20:34:50:025
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 38
+Statistici la ora: 20:34:50:227
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 40
+Statistici la ora: 20:34:50:428
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 41
+Statistici la ora: 20:34:50:629
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 42
+Statistici la ora: 20:34:50:830
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 3
+Numarul comenzilor in procesare: 3
+Numarul comenzilor finalizate: 44
+Statistici la ora: 20:34:51:031
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 47
+Statistici la ora: 20:34:51:236
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 49
+Statistici la ora: 20:34:51:441
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 50
+Statistici la ora: 20:34:51:648
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 52
+Statistici la ora: 20:34:51:849
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 3
+Numarul comenzilor finalizate: 54
+Statistici la ora: 20:34:52:051
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 57
+Statistici la ora: 20:34:52:254
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 2
+Numarul comenzilor in procesare: 3
+Numarul comenzilor finalizate: 59
+Statistici la ora: 20:34:52:454
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 62
+Statistici la ora: 20:34:52:656
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 63
+Statistici la ora: 20:34:52:856
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 3
+Numarul comenzilor finalizate: 65
+Statistici la ora: 20:34:53:058
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:53:259
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:53:461
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:53:664
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:53:871
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:54:077
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:54:283
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:54:487
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:54:690
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:54:895
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:55:098
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:55:300
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:55:505
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:55:709
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:55:915
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:56:122
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 68
+Statistici la ora: 20:34:56:326
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:56:529
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:56:737
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:56:943
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:57:150
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:57:356
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:57:560
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 69
+Statistici la ora: 20:34:57:761
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 70
+Statistici la ora: 20:34:57:961
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 70
+Statistici la ora: 20:34:58:162
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 70
+Statistici la ora: 20:34:58:367
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 70
+Statistici la ora: 20:34:58:569
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:34:58:771
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:34:58:972
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:34:59:173
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:34:59:381
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:34:59:583
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:34:59:786
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:35:00:002
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:35:00:204
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 71
+Statistici la ora: 20:35:00:406
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:00:608
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:00:816
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:01:018
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:01:218
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:01:420
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 1
+Numarul comenzilor in procesare: 1
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:01:624
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 0
+Numarul comenzilor in procesare: 2
+Numarul comenzilor finalizate: 72
+Statistici la ora: 20:35:01:831
+----------------------------------------------------------------------
+
+Comenzi finalizate:
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 15, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 12, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 3, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PASTE
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 15, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 5, Tip Mancare: PASTE
+ID Comanda: 12, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: PIZZA
+ID Comanda: 1, Tip Mancare: PIZZA
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 8, Tip Mancare: PASTE
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 11, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: PASTE
+ID Comanda: 2, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: SUSHI
+ID Comanda: 14, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: PIZZA
+ID Comanda: 5, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: SUSHI
+ID Comanda: 16, Tip Mancare: PIZZA
+ID Comanda: 11, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 10, Tip Mancare: SUSHI
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: PIZZA
+ID Comanda: 8, Tip Mancare: SUSHI
+ID Comanda: 2, Tip Mancare: PASTE
+ID Comanda: 14, Tip Mancare: SUSHI
+ID Comanda: 7, Tip Mancare: PIZZA
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 4, Tip Mancare: SUSHI
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 13, Tip Mancare: PIZZA
+ID Comanda: 6, Tip Mancare: SUSHI
+ID Comanda: 1, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+ID Comanda: 9, Tip Mancare: PASTE
+ID Comanda: 13, Tip Mancare: SUSHI
+ID Comanda: 3, Tip Mancare: SUSHI
+Numarul comenzilor in asteptare: 0
+Numarul comenzilor in procesare: 0
+Numarul comenzilor finalizate: 74
+Statistici la ora: 20:35:02:031
+----------------------------------------------------------------------
